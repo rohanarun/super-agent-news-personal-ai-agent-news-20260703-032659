@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[circleid.net](https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTXd4d0hrQ21jVmpHcnkyaXN0SDBMT1ppa0hSeno3NUw3R1loQUlUY2N2cGxCcTZZWVVpZklHUl81dnBjSzkxUHNtZUUtTjZidjlPYlVNMmZyYVZwMXpjQmJlSURNc2JNN1g3bE5mZnFjT1VMc1hLZlcwcFBpYW8?oc=5)",
+    "[reuters.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGd3bUw3UGVpQ1A2YllIZ3NOYy1JNHpqU0NLczNGQzNkV2VLdElJbkhLWkExVVBkamJFbDlpRmxXUzFlR2pYdlVLbEtWWVBJY3RWYzFvZlVDLWtQc2RDMHRGVmZjZk9RdHk4Z05HbzZ5S3YxVWw4blZDOGd2U2Vad1RHSHB3bzV1bkFoZzg2Uy1BMTZhRGdiWTNtU3M3NDM5SGppN1hmdGxTenVka20zNg?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5)",
+    "[apnews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQR202cGEybTFVVVNrZjlHd0lqa0FsdjZ4cDJvc3JRanB2QWFXMEFwRGV1LXQwRk16eXh0R2l6VklaSUVydHVQTFpaZ0JBQ0VJRWtHTXppdzd0MGxQNk1OUlVaZ0hMTzRfRkYtckd5TDZpRHB6NkR0eTZjNFhxVlZMcEk0ZzF2c1FhbTdCdUtUNks1a2tuWXJueGVnenVxd1B2T0IyTGxFTXgwRWQzRG50SUdNNA?oc=5)",
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px max-width, 2\u20133 lines; AIDA checked; dense grids use grid-auto-flow:dense; buttons contrast verified; competitors label sweep complete.",
+  "generated_at": "2026-07-03T03:27:06.200623+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A frequently refreshed editorial briefing for buyers and builders tracking personal AI agents \u2014 with clear evidence from current reporting, fair competitor context (Folk, Orchids, Siri, ChatGPT, Gemini, Grok), and a Super perspective on why real computer-use agents with a reusable computer-use cache win on repeated workflows."
+}
